@@ -1,7 +1,7 @@
 # VCB Stock Price Forecasting with ARIMA
 Collecting and processing VCB stock data from Yahoo Finance and applying the ARIMA model to forecast prices.
 
-## Post-Training Diagnostics
+### Post-Training Diagnostics
 
 <div align="center">
 
@@ -20,7 +20,7 @@ Collecting and processing VCB stock data from Yahoo Finance and applying the ARI
 
 - Prob(JB) = 0.00 < 0.05 => residuals are not normally distributed; the model may not fully satisfy normality assumptions, but this has limited impact on forecasting performance.
 
-## Forecast Results (60 Days)
+### Forecast Results (60 Days)
 
 <div align="center">
 
