@@ -16,9 +16,9 @@ Collecting and processing VCB stock data from Yahoo Finance and applying the ARI
 <small>Figure 2: Detailed statistical summary</small>
 </div>
 
-- Prob(Q) = 0.92 > 0.05 => residuals are approximately random, indicating that the ARIMA model captured most of the autocorrelation patterns in the data.
+- `Prob(Q) = 0.92 > 0.05` => residuals are approximately random, indicating that the ARIMA model captured most of the autocorrelation patterns in the data.
 
-- Prob(JB) = 0.00 < 0.05 => residuals are not normally distributed; the model may not fully satisfy normality assumptions, but this has limited impact on forecasting performance.
+- `Prob(JB) = 0.00 < 0.05` => residuals are not normally distributed; the model may not fully satisfy normality assumptions, but this has limited impact on forecasting performance.
 
 ### Forecast Results (60 Days)
 
