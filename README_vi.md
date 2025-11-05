@@ -1,7 +1,7 @@
 # Dự báo cổ phiếu VCB bằng ARIMA
 Thu thập, xử lý dữ liệu cổ phiếu VCB từ Yahoo Finance và áp dụng mô hình ARIMA để dự báo giá
 
-## Thông số sau huấn luyện
+### Thông số sau huấn luyện
 
 <div align="center">
 
@@ -20,7 +20,7 @@ Thu thập, xử lý dữ liệu cổ phiếu VCB từ Yahoo Finance và áp d�
 
 - Prob(JB) = 0.00 < 0.05 => phần dư không tuân theo phân phối chuẩn; mô hình có thể không hoàn toàn thỏa mãn giả định chuẩn, nhưng điều này ít ảnh hưởng đến khả năng dự báo.
 
-## Kết quả (60 ngày)
+### Kết quả (60 ngày)
 
 <div align="center">
 
