@@ -16,9 +16,9 @@ Thu thập, xử lý dữ liệu cổ phiếu VCB từ Yahoo Finance và áp d�
 <small>Hình 2: Bảng chi tiết thống kê</small>
 </div>
 
-- Prob(Q) = 0.92 > 0.05 => phần dư gần như ngẫu nhiên, cho thấy mô hình ARIMA đã bắt được hầu hết các mẫu tự tương quan trong dữ liệu.
+- `Prob(Q) = 0.92 > 0.05` => phần dư gần như ngẫu nhiên, cho thấy mô hình ARIMA đã bắt được hầu hết các mẫu tự tương quan trong dữ liệu.
 
-- Prob(JB) = 0.00 < 0.05 => phần dư không tuân theo phân phối chuẩn; mô hình có thể không hoàn toàn thỏa mãn giả định chuẩn, nhưng điều này ít ảnh hưởng đến khả năng dự báo.
+- `Prob(JB) = 0.00 < 0.05` => phần dư không tuân theo phân phối chuẩn; mô hình có thể không hoàn toàn thỏa mãn giả định chuẩn, nhưng điều này ít ảnh hưởng đến khả năng dự báo.
 
 ### Kết quả (60 ngày)
 
